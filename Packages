@@ -1,0 +1,16 @@
+Package: timer-cli
+Version: 0.1.0-1
+Architecture: amd64
+Maintainer: omelet3032 <omelet3032@gmail.com>
+Installed-Size: 668
+Depends: libc6 (>= 2.34)
+Filename: debian/timer-cli_0.1.0-1_amd64.deb
+Size: 255192
+MD5sum: 84807bc1ab1d3074ae5a819fbb23ce56
+SHA1: 5b314baad0f2dd7f29e2792c66673caf9e79c3b5
+SHA256: 51b8ea8a844c1c1d2bae080b71d737297504b8a19ff4f6b5d0c757da459b1f37
+Priority: optional
+Description: timer for cli
+ terminal app
+ timer-cli
+
